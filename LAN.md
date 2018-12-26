@@ -2,6 +2,7 @@
 
 - [Age of Empires 2 HD](https://store.steampowered.com/app/221380/Age_of_Empires_II_HD)
 - [Age of Empires 3 HD](https://store.steampowered.com/app/105450/Age_of_Empires_III_Complete_Collection/)
+- Blur
 - Call of Duty 4
 - Counter-Strike: Source
 - **[Counter-Strike: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
@@ -19,4 +20,13 @@
 - KKND
 - Starcraft
 - [OpenRA (Command & Conquer - Red Alert ++)](https://www.openra.net)
+- Unreal Tournament (Alt)
+- Star Wars JK II Jedi Outcast
 - Warcraft III - TFT
+
+# Weitere interessante Spiele
+- [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/)
+
+# Freigaben (DaCasi)
+Falls Maps oder andere Dinge fehlen können diese evtl. unter folgenden Netzwerkpfad liegen...
+**\\\\PANDORASBOX\LAN**
