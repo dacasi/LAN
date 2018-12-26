@@ -1,7 +1,7 @@
 # LAN Games
 
-- [Age of Empires 2 HD](https://store.steampowered.com/app/221380/Age_of_Empires_II_HD)
-- [Age of Empires 3 HD](https://store.steampowered.com/app/105450/Age_of_Empires_III_Complete_Collection/)
+- [Age of Empires II HD](https://store.steampowered.com/app/221380/Age_of_Empires_II_HD)
+- [Age of Empires III](https://store.steampowered.com/app/105450/Age_of_Empires_III_Complete_Collection/)
 - Blur
 - Call of Duty 4
 - Counter-Strike: Source
