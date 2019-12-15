@@ -24,9 +24,36 @@
 
 # Insurgency
 
-## Maps
+## Maps 2019
 - Freigabe: **\\\\PANDORASBOX\Insurgency**
 - Alle Ordner inklusive Inhalt nach **DEIN STEAM ORDNER\SteamApps\common\insurgency2\insurgency** kopieren.
+
+### Maps - Conquer
+Gain control of an enemy town by securing three strongholds in whichever order your team prefers. In this non-linear mode destroying enemy weapon caches weakens them and allows the strongholds to be more easily controlled.
+- ahscsgo
+- caves_coop
+- estates_b4_push
+- showdown_night
+
+### Checkpoint
+Linear attack game mode where your team must attack and hold multiple objectives in a linear sequence.
+- badlands_b2
+- cu_chi_tunnels
+- de_aztec_coop
+- downtown_coopv1a
+- haditha_dam_coop_finale
+- market_open_coop
+- rainforest_fixed_final
+- showdown
+- sotu_city
+- station_ws
+
+### Hunt
+Eliminate all enemies in the area and take out their weapon cache, which is in one of three potential locations.
+- hideout
+- ins_bridgeatremagen_coop
+- karkand_redux_p1_v1_2
+- payback
 
 ## Pinke Texturen
 - **Workaround**: In den Grafikeinstellungen die Shaderqualität auf Mittel runterstellen.
