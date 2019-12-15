@@ -16,17 +16,21 @@
 - Unreal Tournament 3
 
 # Retro Games
-- Dune 2000
-- KKND
 - Starcraft
 - [OpenRA (Command & Conquer - Red Alert ++)](https://www.openra.net)
 - Unreal Tournament (Alt)
 - Star Wars JK II Jedi Outcast
 - Warcraft III - TFT
 
-# Weitere interessante Spiele
-- [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/)
-
 # Freigaben (DaCasi)
 Falls Maps oder andere Dinge fehlen können diese evtl. unter folgenden Netzwerkpfad liegen...
 **\\\\PANDORASBOX\LAN**
+
+# Insurgency
+
+## Maps
+- Freigabe: **\\\\PANDORASBOX\Insurgency**
+- Alle Ordner inklusive Inhalt nach **DEIN STEAM ORDNER**\SteamApps\common\insurgency2\insurgency** kopieren.
+
+## Pinke Texturen
+- **Workaround**: In den Grafikeinstellungen die Shaderqualität auf Mittel runterstellen.
