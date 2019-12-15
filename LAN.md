@@ -22,15 +22,14 @@
 - Star Wars JK II Jedi Outcast
 - Warcraft III - TFT
 
-# Freigaben (DaCasi)
-Falls Maps oder andere Dinge fehlen können diese evtl. unter folgenden Netzwerkpfad liegen...
-**\\\\PANDORASBOX\LAN**
-
 # Insurgency
 
 ## Maps
 - Freigabe: **\\\\PANDORASBOX\Insurgency**
-- Alle Ordner inklusive Inhalt nach **DEIN STEAM ORDNER**\SteamApps\common\insurgency2\insurgency** kopieren.
+- Alle Ordner inklusive Inhalt nach **DEIN STEAM ORDNER\SteamApps\common\insurgency2\insurgency** kopieren.
 
 ## Pinke Texturen
 - **Workaround**: In den Grafikeinstellungen die Shaderqualität auf Mittel runterstellen.
+
+# Andere Freigaben
+- **\\\\PANDORASBOX\LAN** (Lese und Schreibzugriff, für den eventuellen Austausch von fehleden Daten usw...)
