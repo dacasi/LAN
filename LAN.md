@@ -56,7 +56,8 @@ Eliminate all enemies in the area and take out their weapon cache, which is in o
 - [payback](https://steamcommunity.com/sharedfiles/filedetails/?id=645198093&searchtext=payback)
 
 ## Pinke Texturen
-- **Workaround**: In den Grafikeinstellungen die Shaderqualität auf Mittel runterstellen.
+- **Workaround**: In den Insurgency **VIDEO** Einstellungen die **SHADER-DETAILS** auf **Mittel** runterstellen.
+
 
 # Andere Freigaben
 - **\\\\PANDORASBOX\LAN** (Lese und Schreibzugriff, für den eventuellen Austausch von fehleden Daten usw...)
