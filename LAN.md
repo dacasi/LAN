@@ -58,6 +58,11 @@ Eliminate all enemies in the area and take out their weapon cache, which is in o
 ## Pinke Texturen
 - **Workaround**: In den Insurgency **VIDEO** Einstellungen die **SHADER-DETAILS** auf **Mittel** runterstellen.
 
+# Warcraft III
+## Auflösung ändern
+HKEY_CURRENT_USER\Software\Blizzard Entertainment\Warcraft III\Video
+
+\\HULI-PC\Spiele\Warcraft III
 
 # Andere Freigaben
 - **\\\\PANDORASBOX\LAN** (Lese und Schreibzugriff, für den eventuellen Austausch von fehleden Daten usw...)
